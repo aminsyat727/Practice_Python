@@ -1,9 +1,11 @@
 import random
 a = random.sample(range(20), 10)
+b = []
+
 print ("The variable a is a " + str(type(a)))
 print("It can fill in up to " + str(len(a)) +" values")
 print(a)
-b = []
+
 for i in range(len(a)):
 
     if a[i] <= 10:
