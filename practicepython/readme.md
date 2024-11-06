@@ -24,4 +24,4 @@ Exercise are taken from https://www.practicepython.org/
 | 17: Decode A Web Page ❌             | 37: Functions Refactor ❌           |
 | 18: Cows And Bulls ✅                | 38: f Strings ❌                    |
 | 19: Decode A Web Page Two ❌         | 39: Character Input Datetime ❌     |
-| 20: Element Search ✅                | 40: Error Checking ❌               |
+| 20: Element Search ❌                | 40: Error Checking ❌               |
