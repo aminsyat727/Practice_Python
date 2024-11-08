@@ -33,10 +33,10 @@ def binary_search(user, lst):
         return binary_search(user, lst)
 
 
-
-lst = random.sample(range(100), 10)
-lst.sort()
-user = get_number()
-print(binary_search(user, lst))
-##search(user, lst)
+if __name__=="__main__":
+    lst = random.sample(range(100), 10)
+    lst.sort()
+    user = get_number()
+    print(binary_search(user, lst))
+    ##search(user, lst)
 

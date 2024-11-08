@@ -7,5 +7,6 @@ def reverse_string(reverse):
 
     return stringlist
 
-input = input_string()
-print(reverse_string(input))
+if __name__=="__main__":
+    input = input_string()
+    print(reverse_string(input))

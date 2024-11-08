@@ -14,8 +14,9 @@ def fibonacci_sequence(n):
             F.append(Fibo)
     return F
 
-fibo = user_input()
-print(fibonacci_sequence(fibo))
+if __name__=="__main__":
+    fibo = user_input()
+    print(fibonacci_sequence(fibo))
 
 
 

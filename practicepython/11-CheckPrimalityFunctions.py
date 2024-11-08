@@ -22,9 +22,9 @@ def check_small_prime(number):
     
     return prime
             
-
-num = get_number("Please select an integer to check for prime number: ")
-print(check_small_prime(num))
+if __name__ =="__main__":
+    num = get_number("Please select an integer to check for prime number: ")
+    print(check_small_prime(num))
 
 
 

@@ -1,5 +1,3 @@
-a = [5, 10, 15, 20, 25]
-
 def first_last(fl):
     b = []
     b.append(fl[0])
@@ -7,4 +5,6 @@ def first_last(fl):
 
     return b
 
-print(first_last(a))
+if __name__ =="__main__":
+    a = [5, 10, 15, 20, 25]
+    print(first_last(a))

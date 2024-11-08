@@ -22,6 +22,7 @@ def remove_duplicate_sets(b):
     set_list = set(b)
     return set_list
 
-print("removing duplicate from list using loop\n" + str(remove_duplicate_loop(my_list)))
-print("removing duplicate from list using set\n" + str(remove_duplicate_sets(my_list)))
+if __name__=="__main__":
+    print("removing duplicate from list using loop\n" + str(remove_duplicate_loop(my_list)))
+    print("removing duplicate from list using set\n" + str(remove_duplicate_sets(my_list)))
 
