@@ -10,7 +10,7 @@ Exercise are taken from https://www.practicepython.org/
 | 3: List Less Than Ten ✅             | 23: File Overlap ✅                 |
 | 4: Divisors ✅                       | 24: Draw A Game Board ✅            |
 | 5: List Overlap ✅                   | 25: Guessing Game Two ✅            |
-| 6: String Lists ✅                   | 26: Check Tic Tac Toe ❌            |
+| 6: String Lists ✅                   | 26: Check Tic Tac Toe ✅            |
 | 7: List Comprehensions ✅            | 27: Tic Tac Toe Draw ❌             |
 | 8: Rock Paper Scissors ✅            | 28: Max Of Three ✅                 |
 | 9: Guessing Game One ✅              | 29: Tic Tac Toe Game ❌             |
